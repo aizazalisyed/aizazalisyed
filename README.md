@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aizaz Ali</h1>
 <h3 align="center">I develop mobile applications.</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [Productivity App](https://github.com/aizazalisyed/ProductivityApp)
 
